@@ -1,0 +1,12 @@
+{
+  "name": "mcp-simple-image",
+  "version": "1.0.0",
+  "description": "Simple MCP tool for image generation via StepFun-compatible API",
+  "main": "server.py",
+  "scripts": {
+    "start": "python server.py",
+    "test": "python test_mcp.py"
+  },
+  "keywords": ["mcp", "image-generation", "stepfun", "ai"],
+  "license": "MIT"
+}

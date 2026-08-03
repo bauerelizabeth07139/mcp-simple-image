@@ -1,0 +1,7 @@
+{
+  "api_key": "YOUR_API_KEY_HERE",
+  "api_base": "https://api.stepfun.com/step_plan/v1",
+  "model": "step-image-edit-2",
+  "size": "1024x1024",
+  "n": 1
+}
