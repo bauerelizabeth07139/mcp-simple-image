@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Simple Image",
+    "description": "Text-to-image through a StepFun-compatible API: mounts a zero-dependency MCP server behind an NDJSON bridge and generates images as mcp__simple_image__simple_image, returning the resulting URLs."
+  }
+}

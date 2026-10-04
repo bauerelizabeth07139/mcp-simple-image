@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Simple Image 图片生成",
+    "description": "通过 StepFun 兼容接口生成图片:把零依赖的 MCP 服务器挂在 NDJSON 桥后面,用 mcp__simple_image__simple_image 生成并返回图片 URL。"
+  }
+}
