@@ -1,5 +1,7 @@
 # mcp-simple-image
 
+[![dsh.so risk](https://www.dsh.so/badge/mcp-simple-image.svg)](https://www.dsh.so/artifact/mcp-simple-image/)
+
 **One tool, one endpoint.** `simple_image` posts a prompt to a
 StepFun-compatible `/images/generations` API and returns the resulting image
 URLs — no SDK, no third-party packages.
